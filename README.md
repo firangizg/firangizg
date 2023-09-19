@@ -11,11 +11,11 @@ My name is Firangiz Ganbarli 🦊. I was born and raised in Baku, Azerbaijan and
 * Microsoft Student Learn Ambassador 
 * MLH Top 50 Hackers of 2022
 * HackKU organizer
-* GitHub Campus Expert Trainee
+* GitHub Campus Expert 
   
 ## ⚡ About me
-- 🔭 I’m currently working on my intern project in Office Deployment team at Microsoft!
-- 🌱 I’m currently learning about Azure Cognitive Services for the Microsoft Learn AI Skills Challenge
+- 🔭 I’m currently working on my building my personal website!
+- 🌱 I’m currently learning more about web development along with classes on programming languages and machine learning
 - 📫 How to reach me: LinkedIn message or gmail!
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Have been in 14 countries around Europe and North America!
