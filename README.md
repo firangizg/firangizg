@@ -8,7 +8,6 @@
 My name is Firangiz Ganbarli 🦊. I was born and raised in Baku, Azerbaijan and am currently in my final year of B.S. in Computer Science from University of Kansas. 
 
 ## 👯 Communities
-* Microsoft Student Learn Ambassador 
 * MLH Top 50 Hackers of 2022
 * HackKU organizer
 * GitHub Campus Expert 
