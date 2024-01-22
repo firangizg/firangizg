@@ -14,7 +14,7 @@ My name is Firangiz Ganbarli 🦊. I was born and raised in Baku, Azerbaijan and
   
 ## ⚡ About me
 - 🔭 I’m currently working on my building my personal website!
-- 🌱 I’m currently learning more about web development along with classes on programming languages and machine learning
+- 🌱 I’m currently learning more about web development along with classes on video game development, computer security and algorithms!
 - 📫 How to reach me: LinkedIn message or gmail!
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Have been in 14 countries around Europe and North America!
