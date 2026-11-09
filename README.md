@@ -5,18 +5,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-firangizganbarli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/firangizganbarli/)](https://www.linkedin.com/in/firangizganbarli/) 
 [![Gmail Badge](https://img.shields.io/badge/-firangizganbarlii@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:firangizganbarlii@gmail.com)](mailto:firangizganbarlii@gmail.com)
 
-My name is Firangiz Ganbarli 🦊. I was born and raised in Baku, Azerbaijan and am currently in my final year of B.S. in Computer Science from University of Kansas. 
-
-## 👯 Communities
-* MLH Top 50 Hackers of 2022
-* HackKU organizer
-* GitHub Campus Expert 
-  
-## ⚡ About me
-- 🔭 I’m currently working on my building my personal website!
-- 🌱 I’m currently learning more about web development along with classes on video game development, computer security and algorithms!
-- 📫 How to reach me: LinkedIn message or gmail!
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: Have been in 14 countries around Europe and North America!
-
-![Firangiz's github stats](https://github-readme-stats.vercel.app/api?username=firangizg&hide=["issues"]&show_icons=true)
+My name is Firangiz Ganbarli 🦊. I was born and raised in Baku, Azerbaijan and am currently working as a SWE at Microsoft.
